@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,700');
+
+body {
+    background:linear-gradient(to right, rgb(97, 0, 73), rgb(4, 104, 255));
+    padding: 3em;
+    font-family: 'Raleway', 'Arial';
+    color:#fff;
+}
+ul {
+    list-style-type:none;
+    margin:0 0 2em 0;
+    padding:0;
+}
+ul li {
+   
+    display:inline;
+    margin-right: 30px;
+}
+ul li a {
+    font-size: 1.5em;
+}
+a {
+    color:#fff;
+    text-decoration:none;
+}
+span{
+    padding: 3px;
+    background: red;
+    color: white;
+    border-radius: 100px;
+}
+h1 {
+    text-align: center;
+}
+.list{
+    text-align: center;
+}
